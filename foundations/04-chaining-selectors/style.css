@@ -3,7 +3,7 @@
     width: 300px;
 }
 
-.avatar.distored img{
+img .avatar.distored{
     height: 400px;
     width: 200px;
 }
