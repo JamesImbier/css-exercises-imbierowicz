@@ -3,6 +3,10 @@ body {
   font-family: sans-serif;
 }
 
+.box{
+  margin: 8px;
+}
+
 .card {
   width: 400px;
   background: #fff;
